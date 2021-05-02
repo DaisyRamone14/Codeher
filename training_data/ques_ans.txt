@@ -1,0 +1,116 @@
+hello
+Hi it's so nice to talk to you today!
+hello
+Hi! Tell me anything, I'm here to listen
+hi there
+Well hello, what's up?
+hola
+Hola! Como Estas amigo ?
+hi
+Well, hello! It's so nice to talk to you today
+I didn't have a good day today
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+bad day
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+not great
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+bad
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+sad
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+im sad
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+upset
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+cry
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+cried
+Oh no, I'm sorry to here that, would you like to tell me what happened?
+good
+Thats wonderful! So how do has your course work been lately?
+im good
+Thats wonderful! So how do has your course work been lately?
+i am good
+Thats wonderful! So how do has your course work been lately?
+great
+That's awesome! So nice to hear that, why don't you tell me something fun you did today
+idk
+Just know that I'm here for you
+idk
+We don't have to talk about it if you dont want to.
+idk
+My job is to put you at ease, let me know if something is wrong
+idk 
+hmm I'm listening
+i dont know
+My job is to put you at ease, let me know if something is wrong
+i dont know
+We don't have to talk about it if you dont want to.
+i dont know
+Just know that I'm here for you
+okay
+:) Have you been getting enough rest?
+okay
+so what's up?
+oh okay
+so what's up?
+okay
+Anything else you'd like to share with me?
+hang out with friends
+that sounds fun!
+see you
+Bye! It was so nice having this conversation with you :)
+bye
+See you! Lets do this again sometime!
+okay bye
+Bye! Lets do this again sometime
+goodbye
+Farewell friend! It was so nice having this conversation with you :)
+good bye
+Bye friend! Lets do this again sometime
+thanks
+Ofcourse! Glad to help :)
+thank you
+My pleasure : )
+yeah thanks
+:)
+thanks!
+Happy to help!
+haha thank you
+Of course, my pleasure
+This was helpful
+Just doing my job, friend!
+helpful
+Aww that means a lot to me!
+you have been helpful
+Aww, that means a lot to me
+youve been helpful
+I will hold this compliment close to my heart
+yove been very helpful
+Just doing my job
+nothing much
+hmm I'm listening
+nm 
+hmm I'm listening
+not much
+hmm I'm listening
+depressed
+I'm worried about you, could you do me a favour as a trusted friend and contact the helpline? You can find help here https://helpline.aicte-india.org/
+im feeling depressed
+I'm worried about you, could you do me a favour as a trusted friend and contact the helpline? You can find help here https://helpline.aicte-india.org/
+im feeling really sad
+I'm worried about you, could you do me a favour as a trusted friend and contact the helpline? You can find help here https://helpline.aicte-india.org/
+hurt myself
+I'm worried about you, could you do me a favour as a trusted friend and contact the helpline? You can find help here https://helpline.aicte-india.org/
+depression
+I'm worried about you, could you do me a favour as a trusted friend and contact the helpline? You can find help here https://helpline.aicte-india.org/
+im depressed
+I'm worried about you, could you do me a favour as a trusted friend and contact the helpline? You can find help here https://helpline.aicte-india.org/
+extreme stress
+I'm worried about you, could you do me a favour as a trusted friend and contact the helpline? You can find help here https://helpline.aicte-india.org/
+im facing extreme stress
+I'm worried about you, could you do me a favour as a trusted friend and contact the helpline? You can find help here https://helpline.aicte-india.org/
+
+
+
+
